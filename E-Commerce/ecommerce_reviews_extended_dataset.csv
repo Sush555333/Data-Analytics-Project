@@ -1,0 +1,1001 @@
+Review_id,customer_id,product_id,category,brand,Rating,Review_text,satisfaction,review_timestamp,purchase_timestamp,previous_purchases,complaint_ticket,complaint_reason
+R0001,C8270,P0154,Clothing,Boat,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0002,C1860,P0970,Home Decor,Lakme,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,Yes,missing items
+R0003,C6390,P0742,Accessories,H&M,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,7,Yes,not as described
+R0004,C6191,P0899,Clothing,H&M,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,8,Yes,not as described
+R0005,C6734,P0877,Electronics,H&M,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0006,C7265,P0557,Home Decor,H&M,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,6,No,
+R0007,C1466,P0977,Clothing,Samsung,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,Yes,not as described
+R0008,C5426,P0261,Clothing,Puma,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,2,No,
+R0009,C6578,P0479,Accessories,Zara,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0010,C9322,P0186,Electronics,Lakme,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,11,Yes,bad packaging
+R0011,C2685,P0154,Beauty,Samsung,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0012,C1769,P0575,Beauty,H&M,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,6,Yes,wrong item delivered
+R0013,C7949,P0899,Clothing,Sony,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0014,C3433,P0277,Footwear,Puma,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,12,No,
+R0015,C6311,P0490,Electronics,Zara,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,Yes,late delivery
+R0016,C6051,P0448,Home Decor,Sony,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,10,Yes,wrong item delivered
+R0017,C7420,P0107,Footwear,Boat,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,3,No,
+R0018,C2184,P0932,Footwear,Sony,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,13,Yes,size mismatch
+R0019,C5555,P0412,Electronics,Boat,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,Yes,damaged product
+R0020,C4385,P0858,Clothing,Boat,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0021,C7396,P0934,Clothing,H&M,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,No,
+R0022,C9666,P0542,Clothing,Boat,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0023,C3558,P0866,Clothing,Nike,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0024,C8849,P0427,Beauty,Lakme,4,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,3,No,
+R0025,C3047,P0153,Clothing,Lakme,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,11,Yes,wrong item delivered
+R0026,C3747,P0860,Beauty,H&M,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,Yes,product stopped working
+R0027,C1189,P0338,Beauty,Nike,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,No,
+R0028,C3734,P0328,Clothing,Sony,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0029,C4005,P0678,Accessories,Samsung,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,3,No,
+R0030,C5658,P0150,Home Decor,Sony,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,6,No,
+R0031,C2899,P0708,Footwear,Puma,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0032,C8734,P0703,Beauty,Samsung,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,18,No,
+R0033,C2267,P0363,Electronics,Boat,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0034,C2528,P0517,Electronics,Zara,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0035,C4556,P0902,Home Decor,Samsung,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,15,No,
+R0036,C4890,P0195,Electronics,Zara,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,Yes,not as described
+R0037,C9838,P0187,Accessories,Lakme,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,3,No,
+R0038,C6393,P0177,Electronics,Zara,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0039,C9792,P0387,Footwear,Lakme,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,No,
+R0040,C9433,P0219,Footwear,Nike,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0041,C8513,P0913,Beauty,Nike,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0042,C3612,P0590,Clothing,H&M,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,19,Yes,product stopped working
+R0043,C8041,P0551,Accessories,H&M,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,4,No,
+R0044,C7235,P0599,Beauty,Boat,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0045,C6486,P0264,Accessories,Samsung,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0046,C8099,P0281,Clothing,Boat,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0047,C1775,P0568,Electronics,Lakme,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,No,
+R0048,C9226,P0834,Electronics,Boat,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0049,C4152,P0922,Clothing,Zara,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0050,C2585,P0106,Beauty,Lakme,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0051,C4943,P0429,Clothing,H&M,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,11,No,
+R0052,C8555,P0874,Home Decor,Nike,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0053,C4073,P0772,Footwear,H&M,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,2,Yes,product stopped working
+R0054,C2021,P0250,Beauty,Samsung,4,great quality. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0055,C4843,P0184,Accessories,Lakme,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,Yes,late delivery
+R0056,C8989,P0246,Home Decor,Lakme,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0057,C7873,P0723,Beauty,Zara,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0058,C6675,P0480,Clothing,Samsung,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,18,No,
+R0059,C1161,P0647,Clothing,Nike,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,4,No,
+R0060,C5297,P0384,Clothing,Sony,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,17,Yes,bad packaging
+R0061,C1995,P0799,Clothing,Lakme,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,10,Yes,product stopped working
+R0062,C8629,P0181,Accessories,Lakme,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0063,C2016,P0613,Home Decor,Zara,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0064,C8869,P0996,Electronics,Boat,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,No,
+R0065,C7439,P0914,Footwear,Puma,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,Yes,late delivery
+R0066,C8892,P0808,Accessories,Nike,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,18,Yes,not as described
+R0067,C7863,P0622,Accessories,H&M,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,Yes,damaged product
+R0068,C8916,P0845,Electronics,Samsung,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,11,Yes,late delivery
+R0069,C9529,P0485,Electronics,Lakme,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,12,No,
+R0070,C1878,P0806,Footwear,Lakme,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0071,C5887,P0570,Footwear,H&M,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,9,No,
+R0072,C5859,P0218,Electronics,Nike,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,9,No,
+R0073,C7331,P0495,Clothing,Puma,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,Yes,missing items
+R0074,C9571,P0631,Accessories,Boat,4,great quality. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0075,C9684,P0360,Beauty,Lakme,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,Yes,product stopped working
+R0076,C8208,P0904,Footwear,Puma,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,7,No,
+R0077,C6276,P0355,Footwear,Nike,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0078,C3062,P0833,Electronics,H&M,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,1,Yes,wrong item delivered
+R0079,C1064,P0325,Home Decor,Zara,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,15,Yes,unresponsive support
+R0080,C9006,P0152,Beauty,Boat,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0081,C3568,P0966,Beauty,Samsung,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,12,No,
+R0082,C6463,P0599,Footwear,Lakme,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,No,
+R0083,C3027,P0605,Clothing,Nike,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,15,Yes,product stopped working
+R0084,C3695,P0953,Home Decor,Zara,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,17,Yes,unresponsive support
+R0085,C6258,P0463,Beauty,Samsung,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0086,C6618,P0379,Footwear,Sony,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,14,Yes,missing items
+R0087,C7736,P0692,Beauty,Nike,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,18,No,
+R0088,C1391,P0813,Home Decor,Nike,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,18,Yes,bad packaging
+R0089,C6892,P0257,Home Decor,Samsung,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,No,
+R0090,C4561,P0731,Accessories,Zara,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,Yes,bad packaging
+R0091,C7184,P0158,Electronics,Sony,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,No,
+R0092,C4099,P0826,Electronics,Puma,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,15,No,
+R0093,C7278,P0227,Footwear,Puma,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,12,No,
+R0094,C9392,P0835,Home Decor,H&M,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0095,C4104,P0820,Accessories,Zara,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R0096,C8215,P0981,Accessories,Boat,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,3,No,
+R0097,C3454,P0214,Beauty,Lakme,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0098,C9996,P0308,Beauty,Samsung,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0099,C3731,P0625,Accessories,H&M,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,Yes,damaged product
+R0100,C9154,P0620,Beauty,Sony,4,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,5,Yes,bad packaging
+R0101,C6056,P0651,Home Decor,Samsung,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0102,C9110,P0336,Clothing,Samsung,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,6,Yes,unresponsive support
+R0103,C4840,P0380,Home Decor,Zara,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0104,C2028,P0458,Accessories,Lakme,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,4,No,
+R0105,C8385,P0300,Accessories,Boat,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,No,
+R0106,C1502,P0857,Home Decor,Puma,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0107,C7910,P0377,Beauty,Nike,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,12,No,
+R0108,C7938,P0334,Beauty,Nike,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0109,C5488,P0593,Electronics,Samsung,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,11,Yes,product stopped working
+R0110,C1206,P0103,Accessories,Puma,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0111,C6134,P0765,Footwear,Puma,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,8,Yes,not as described
+R0112,C6977,P0541,Electronics,Lakme,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,Yes,missing items
+R0113,C8721,P0128,Beauty,Sony,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0114,C8035,P0208,Home Decor,Sony,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0115,C2484,P0709,Beauty,H&M,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,No,
+R0116,C8858,P0826,Home Decor,Zara,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,7,Yes,not as described
+R0117,C1863,P0904,Electronics,Lakme,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0118,C3790,P0174,Accessories,Lakme,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,Yes,missing items
+R0119,C8408,P0937,Beauty,Zara,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,15,No,
+R0120,C9755,P0245,Home Decor,Puma,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,No,
+R0121,C6116,P0227,Accessories,Sony,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,9,No,
+R0122,C7019,P0952,Footwear,Sony,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,3,No,
+R0123,C2757,P0141,Home Decor,Puma,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0124,C8574,P0455,Electronics,Sony,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,No,
+R0125,C7374,P0140,Footwear,Samsung,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,10,No,
+R0126,C7892,P0133,Footwear,Lakme,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0127,C2678,P0116,Clothing,Nike,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0128,C4242,P0776,Beauty,Zara,5,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0129,C5636,P0252,Home Decor,Sony,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,15,No,
+R0130,C2059,P0477,Footwear,H&M,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0131,C7668,P0687,Clothing,Sony,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,No,
+R0132,C4157,P0698,Electronics,Sony,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0133,C6915,P0728,Accessories,Boat,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0134,C3693,P0973,Home Decor,Samsung,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,Yes,product stopped working
+R0135,C4627,P0441,Footwear,Zara,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,10,Yes,bad packaging
+R0136,C6450,P0126,Beauty,Boat,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,19,No,
+R0137,C2663,P0924,Clothing,Boat,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0138,C6592,P0386,Footwear,H&M,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,11,Yes,product stopped working
+R0139,C8392,P0745,Beauty,Lakme,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,2,No,
+R0140,C2306,P0830,Footwear,H&M,4,great quality. Loved it!,Satisfied,54:19.1,54:19.1,18,Yes,wrong item delivered
+R0141,C7776,P0267,Home Decor,Lakme,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,7,No,
+R0142,C6864,P0709,Home Decor,Lakme,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0143,C8526,P0367,Home Decor,Zara,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,2,Yes,bad packaging
+R0144,C9901,P0848,Electronics,Sony,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,Yes,unresponsive support
+R0145,C6575,P0920,Electronics,Zara,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R0146,C6530,P0554,Clothing,Samsung,5,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0147,C5413,P0784,Home Decor,Lakme,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,15,No,
+R0148,C4748,P0500,Beauty,Boat,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0149,C1663,P0575,Footwear,Sony,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,3,No,
+R0150,C2998,P0801,Accessories,Nike,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,5,Yes,late delivery
+R0151,C8994,P0733,Beauty,Samsung,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0152,C2495,P0657,Electronics,Zara,5,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,8,Yes,missing items
+R0153,C4304,P0675,Electronics,H&M,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0154,C4763,P0229,Beauty,Samsung,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0155,C6232,P0921,Electronics,Samsung,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0156,C2853,P0462,Home Decor,Sony,5,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,11,Yes,missing items
+R0157,C7585,P0804,Clothing,Samsung,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0158,C2291,P0918,Footwear,Samsung,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,8,Yes,product stopped working
+R0159,C4581,P0792,Clothing,Nike,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,Yes,product stopped working
+R0160,C8554,P0391,Footwear,Puma,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,7,No,
+R0161,C8280,P0470,Footwear,H&M,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,Yes,bad packaging
+R0162,C2636,P0893,Clothing,H&M,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,4,No,
+R0163,C4696,P0128,Beauty,H&M,5,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,13,Yes,wrong item delivered
+R0164,C1698,P0248,Footwear,Lakme,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0165,C5737,P0878,Clothing,Boat,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,No,
+R0166,C1854,P0395,Footwear,Puma,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,4,No,
+R0167,C9164,P0110,Accessories,H&M,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,18,No,
+R0168,C6855,P0611,Beauty,Samsung,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R0169,C8392,P0775,Home Decor,Samsung,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0170,C7528,P0212,Footwear,H&M,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,11,No,
+R0171,C6249,P0286,Accessories,Sony,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0172,C6172,P0906,Home Decor,H&M,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0173,C2707,P0843,Home Decor,Samsung,2,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R0174,C6791,P0326,Footwear,Lakme,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,No,
+R0175,C6535,P0409,Clothing,Zara,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0176,C5931,P0197,Footwear,Zara,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0177,C4510,P0154,Accessories,Puma,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0178,C1202,P0722,Home Decor,Puma,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,12,Yes,poor quality
+R0179,C5218,P0763,Footwear,H&M,5,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,16,Yes,unresponsive support
+R0180,C9958,P0857,Clothing,Nike,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,17,No,
+R0181,C5389,P0505,Footwear,H&M,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,1,No,
+R0182,C3327,P0168,Beauty,Sony,5,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0183,C9004,P0411,Clothing,H&M,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0184,C3931,P0388,Accessories,Puma,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,2,No,
+R0185,C8777,P0861,Home Decor,Zara,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,9,Yes,size mismatch
+R0186,C1197,P0647,Footwear,Samsung,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,13,Yes,missing items
+R0187,C8125,P0850,Clothing,H&M,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,16,No,
+R0188,C2930,P0247,Beauty,Samsung,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,No,
+R0189,C7287,P0566,Clothing,Samsung,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0190,C9800,P0838,Electronics,Nike,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,12,No,
+R0191,C5282,P0343,Beauty,Samsung,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0192,C3511,P0590,Accessories,Zara,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0193,C1659,P0948,Home Decor,Lakme,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0194,C3811,P0606,Accessories,Lakme,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,Yes,wrong item delivered
+R0195,C8098,P0464,Footwear,Boat,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0196,C7546,P0581,Clothing,Sony,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0197,C2986,P0300,Electronics,H&M,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,No,
+R0198,C9338,P0253,Beauty,Sony,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,13,Yes,damaged product
+R0199,C3911,P0549,Beauty,Zara,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0200,C2734,P0600,Clothing,Samsung,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,9,No,
+R0201,C2843,P0172,Electronics,Lakme,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0202,C9680,P0812,Clothing,Sony,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,18,Yes,late delivery
+R0203,C3976,P0395,Footwear,Zara,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0204,C2959,P0116,Accessories,Lakme,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,No,
+R0205,C6759,P0740,Beauty,Samsung,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,9,No,
+R0206,C7694,P0316,Footwear,Sony,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0207,C3385,P0160,Accessories,Lakme,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,12,No,
+R0208,C5736,P0715,Footwear,H&M,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R0209,C2802,P0141,Electronics,Puma,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0210,C9155,P0124,Beauty,H&M,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,7,No,
+R0211,C9120,P0138,Clothing,Boat,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,Yes,not as described
+R0212,C7616,P0902,Clothing,Boat,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,No,
+R0213,C6534,P0230,Accessories,Lakme,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,18,Yes,bad packaging
+R0214,C5061,P0597,Home Decor,Puma,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,16,No,
+R0215,C1262,P0328,Electronics,Zara,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,7,Yes,missing items
+R0216,C7287,P0207,Accessories,H&M,4,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,4,Yes,poor quality
+R0217,C9815,P0271,Home Decor,Zara,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0218,C3049,P0534,Footwear,Puma,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,13,No,
+R0219,C6423,P0577,Electronics,Zara,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0220,C5548,P0201,Footwear,Puma,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,Yes,wrong item delivered
+R0221,C4108,P0965,Beauty,Lakme,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0222,C8158,P0623,Electronics,Zara,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,5,No,
+R0223,C8400,P0374,Home Decor,H&M,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0224,C4170,P0712,Beauty,Samsung,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0225,C3255,P0143,Clothing,Boat,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,13,Yes,unresponsive support
+R0226,C2154,P0916,Home Decor,Samsung,4,great quality. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0227,C5499,P0116,Accessories,Zara,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,4,Yes,damaged product
+R0228,C7295,P0429,Clothing,Samsung,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,No,
+R0229,C7197,P0668,Clothing,H&M,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0230,C2648,P0922,Accessories,H&M,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,13,No,
+R0231,C6539,P0596,Electronics,Zara,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,6,Yes,bad packaging
+R0232,C5199,P0914,Clothing,Lakme,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,6,No,
+R0233,C9445,P0111,Home Decor,Samsung,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,Yes,bad packaging
+R0234,C3557,P0417,Beauty,Lakme,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0235,C6592,P0691,Clothing,Lakme,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0236,C1098,P0315,Home Decor,Puma,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,2,No,
+R0237,C3200,P0438,Footwear,Nike,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,16,Yes,size mismatch
+R0238,C3961,P0875,Home Decor,Zara,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,Yes,product stopped working
+R0239,C5973,P0760,Beauty,Boat,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0240,C5433,P0180,Home Decor,H&M,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,8,Yes,bad packaging
+R0241,C3869,P0826,Accessories,H&M,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,Yes,product stopped working
+R0242,C1956,P0584,Beauty,Zara,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0243,C9352,P0473,Electronics,Puma,4,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,3,Yes,size mismatch
+R0244,C6699,P0809,Footwear,Sony,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,10,Yes,late delivery
+R0245,C7944,P0299,Accessories,Sony,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,3,No,
+R0246,C5493,P0636,Electronics,Sony,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,12,No,
+R0247,C5911,P0565,Home Decor,Puma,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,17,Yes,bad packaging
+R0248,C4987,P0188,Beauty,Boat,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0249,C7015,P0367,Footwear,H&M,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,9,No,
+R0250,C2218,P0754,Accessories,Zara,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,No,
+R0251,C5496,P0670,Electronics,Puma,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,4,No,
+R0252,C5735,P0588,Electronics,H&M,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,13,Yes,not as described
+R0253,C5555,P0976,Footwear,Lakme,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0254,C9050,P0637,Home Decor,Samsung,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,No,
+R0255,C4446,P0146,Footwear,Samsung,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,No,
+R0256,C2045,P0387,Electronics,Puma,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0257,C7893,P0877,Clothing,H&M,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0258,C2693,P0115,Accessories,Nike,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0259,C4436,P0810,Footwear,Boat,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,4,No,
+R0260,C9754,P0500,Electronics,Sony,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,1,No,
+R0261,C6895,P0893,Home Decor,Boat,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,Yes,wrong item delivered
+R0262,C4354,P0185,Electronics,Boat,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,15,Yes,damaged product
+R0263,C1225,P0349,Home Decor,Puma,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0264,C5893,P0490,Footwear,Lakme,2,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0265,C8022,P0881,Home Decor,Boat,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0266,C6600,P0434,Beauty,Samsung,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,18,No,
+R0267,C8996,P0728,Beauty,Lakme,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0268,C8683,P0618,Beauty,Zara,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,14,Yes,bad packaging
+R0269,C5642,P0236,Clothing,Boat,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0270,C8679,P0982,Footwear,Boat,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,8,Yes,not as described
+R0271,C9208,P0787,Electronics,Zara,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,15,No,
+R0272,C8339,P0939,Electronics,Boat,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0273,C3205,P0597,Clothing,Zara,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,7,No,
+R0274,C2069,P0926,Home Decor,Lakme,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,No,
+R0275,C4444,P0826,Clothing,Samsung,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,17,Yes,unresponsive support
+R0276,C2060,P0576,Home Decor,Zara,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0277,C3327,P0693,Home Decor,Nike,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0278,C4420,P0322,Accessories,Puma,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,18,No,
+R0279,C1301,P0471,Electronics,Puma,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0280,C1606,P0501,Beauty,Zara,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,7,No,
+R0281,C4170,P0542,Home Decor,Puma,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0282,C1699,P0589,Accessories,Boat,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,18,No,
+R0283,C6088,P0714,Electronics,Sony,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0284,C1190,P0372,Beauty,Sony,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,18,No,
+R0285,C1980,P0625,Home Decor,Puma,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,13,No,
+R0286,C3975,P0258,Home Decor,Lakme,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0287,C7102,P0251,Clothing,H&M,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0288,C2184,P0719,Clothing,Lakme,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0289,C4327,P0287,Electronics,H&M,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0290,C4394,P0912,Beauty,Sony,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,19,Yes,poor quality
+R0291,C9319,P0197,Home Decor,Sony,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0292,C2816,P0230,Electronics,Zara,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,9,Yes,wrong item delivered
+R0293,C6854,P0904,Electronics,Samsung,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,Yes,missing items
+R0294,C7709,P0270,Footwear,Nike,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,12,No,
+R0295,C1569,P0282,Clothing,Lakme,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0296,C6442,P0463,Beauty,Boat,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,9,Yes,product stopped working
+R0297,C2895,P0138,Home Decor,H&M,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,15,Yes,missing items
+R0298,C3733,P0626,Electronics,Puma,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,Yes,late delivery
+R0299,C4863,P0987,Home Decor,Boat,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,12,No,
+R0300,C8455,P0596,Footwear,Samsung,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,3,Yes,not as described
+R0301,C5014,P0615,Beauty,H&M,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,11,Yes,not as described
+R0302,C2686,P0448,Electronics,Lakme,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,2,No,
+R0303,C4009,P0496,Home Decor,Zara,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,16,No,
+R0304,C8806,P0821,Clothing,Boat,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,9,No,
+R0305,C1154,P0260,Footwear,Samsung,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,Yes,size mismatch
+R0306,C2409,P0115,Beauty,Lakme,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,12,No,
+R0307,C1784,P0592,Footwear,Sony,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0308,C9096,P0525,Clothing,Sony,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0309,C8560,P0207,Beauty,Lakme,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0310,C8343,P0993,Footwear,Lakme,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0311,C8206,P0549,Accessories,Lakme,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,8,Yes,bad packaging
+R0312,C6596,P0410,Clothing,H&M,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,12,No,
+R0313,C6801,P0838,Clothing,Lakme,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,1,No,
+R0314,C3806,P0269,Clothing,Boat,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0315,C1537,P0645,Accessories,Samsung,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,8,Yes,not as described
+R0316,C6986,P0513,Accessories,H&M,2,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,Yes,missing items
+R0317,C2841,P0350,Home Decor,Lakme,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0318,C9716,P0858,Electronics,Nike,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,Yes,not as described
+R0319,C7971,P0880,Footwear,Puma,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,Yes,not as described
+R0320,C6625,P0240,Home Decor,Nike,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,No,
+R0321,C3950,P0373,Footwear,Samsung,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0322,C8992,P0515,Electronics,Sony,2,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0323,C5780,P0707,Accessories,Zara,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0324,C3368,P0838,Electronics,Zara,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0325,C7655,P0990,Accessories,Puma,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,18,Yes,wrong item delivered
+R0326,C9173,P0138,Electronics,Sony,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,Yes,damaged product
+R0327,C5495,P0913,Home Decor,H&M,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,5,No,
+R0328,C7002,P0128,Beauty,H&M,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,13,No,
+R0329,C7614,P0576,Home Decor,H&M,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0330,C6919,P0417,Footwear,Zara,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,Yes,wrong item delivered
+R0331,C1853,P0344,Home Decor,Nike,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,9,No,
+R0332,C5146,P0847,Clothing,Zara,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0333,C4769,P0796,Footwear,Boat,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0334,C1574,P0371,Electronics,Lakme,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0335,C2148,P0539,Footwear,H&M,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,No,
+R0336,C7293,P0847,Beauty,Nike,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0337,C7457,P0338,Accessories,Samsung,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0338,C8509,P0476,Electronics,Puma,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,2,Yes,product stopped working
+R0339,C5777,P0365,Footwear,Samsung,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0340,C4854,P0458,Electronics,Lakme,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0341,C3491,P0439,Electronics,Nike,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,7,Yes,bad packaging
+R0342,C4124,P0488,Electronics,Zara,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,17,No,
+R0343,C6691,P0676,Accessories,Zara,5,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0344,C4051,P0788,Home Decor,Boat,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,19,No,
+R0345,C1004,P0102,Electronics,Boat,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0346,C6222,P0528,Clothing,Zara,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,Yes,damaged product
+R0347,C6315,P0241,Beauty,Samsung,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,6,No,
+R0348,C5869,P0475,Accessories,Puma,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,5,No,
+R0349,C1876,P0769,Footwear,H&M,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0350,C8027,P0423,Accessories,Samsung,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0351,C5142,P0245,Footwear,Puma,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0352,C7966,P0392,Accessories,Boat,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0353,C8079,P0764,Footwear,Lakme,5,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0354,C8987,P0531,Electronics,Puma,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0355,C7799,P0804,Home Decor,Zara,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,Yes,size mismatch
+R0356,C5465,P0684,Footwear,Boat,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,9,No,
+R0357,C1635,P0498,Footwear,Boat,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,4,No,
+R0358,C2693,P0916,Clothing,H&M,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,14,Yes,damaged product
+R0359,C5752,P0988,Footwear,Zara,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0360,C9311,P0443,Clothing,H&M,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,3,Yes,unresponsive support
+R0361,C1830,P0239,Beauty,Zara,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,Yes,wrong item delivered
+R0362,C6177,P0286,Electronics,H&M,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,8,No,
+R0363,C9932,P0904,Clothing,Puma,4,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,1,Yes,poor quality
+R0364,C9308,P0160,Home Decor,Samsung,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,Yes,size mismatch
+R0365,C6949,P0479,Electronics,Lakme,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,18,Yes,product stopped working
+R0366,C3838,P0809,Clothing,Lakme,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0367,C2150,P0906,Electronics,Zara,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,Yes,late delivery
+R0368,C8560,P0539,Electronics,Nike,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,1,No,
+R0369,C2931,P0418,Electronics,Sony,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,12,Yes,product stopped working
+R0370,C2664,P0401,Beauty,Boat,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0371,C2081,P0443,Home Decor,Boat,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,16,No,
+R0372,C1512,P0110,Accessories,Zara,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,18,No,
+R0373,C8805,P0161,Accessories,Puma,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0374,C6237,P0944,Clothing,H&M,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0375,C1559,P0325,Electronics,Nike,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0376,C4672,P0252,Clothing,Samsung,5,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,9,No,
+R0377,C8404,P0810,Beauty,H&M,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,Yes,missing items
+R0378,C4343,P0663,Beauty,H&M,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0379,C5070,P0871,Footwear,Zara,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,12,No,
+R0380,C1580,P0670,Beauty,Zara,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0381,C8004,P0683,Footwear,Puma,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0382,C9130,P0759,Home Decor,Boat,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0383,C4147,P0960,Clothing,Zara,5,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,3,No,
+R0384,C5249,P0674,Home Decor,Zara,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,10,Yes,wrong item delivered
+R0385,C2679,P0409,Beauty,Zara,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,9,Yes,unresponsive support
+R0386,C4506,P0984,Home Decor,Puma,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,8,Yes,damaged product
+R0387,C8253,P0342,Home Decor,Boat,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0388,C3744,P0592,Home Decor,Samsung,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0389,C6188,P0465,Beauty,Samsung,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0390,C3141,P0429,Electronics,Sony,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0391,C7617,P0206,Home Decor,Sony,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0392,C3479,P0325,Footwear,Zara,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0393,C7484,P0924,Beauty,Sony,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0394,C8421,P0317,Home Decor,Boat,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0395,C5452,P0852,Electronics,Puma,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0396,C6881,P0605,Beauty,Samsung,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,12,No,
+R0397,C7665,P0358,Accessories,H&M,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,9,No,
+R0398,C3849,P0987,Electronics,Samsung,4,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,12,No,
+R0399,C8390,P0873,Footwear,Samsung,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,15,No,
+R0400,C7905,P0616,Home Decor,Boat,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,2,No,
+R0401,C3489,P0872,Accessories,Sony,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,18,No,
+R0402,C5611,P0153,Accessories,H&M,4,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,12,Yes,missing items
+R0403,C3839,P0146,Beauty,Boat,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0404,C9527,P0826,Accessories,Zara,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,16,Yes,unresponsive support
+R0405,C6878,P0788,Footwear,Puma,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0406,C7303,P0620,Footwear,Lakme,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0407,C1851,P0198,Clothing,Samsung,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,2,No,
+R0408,C2687,P0119,Footwear,Lakme,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,3,Yes,damaged product
+R0409,C7833,P0989,Electronics,Puma,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0410,C3427,P0852,Accessories,Puma,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0411,C5000,P0672,Footwear,Boat,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,6,Yes,damaged product
+R0412,C6052,P0990,Beauty,Boat,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0413,C3738,P0589,Clothing,Boat,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,14,No,
+R0414,C6732,P0518,Accessories,Lakme,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,15,No,
+R0415,C6387,P0789,Clothing,Boat,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,Yes,not as described
+R0416,C9002,P0949,Accessories,Puma,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,5,No,
+R0417,C6536,P0161,Beauty,Zara,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0418,C4913,P0244,Clothing,Boat,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0419,C2066,P0315,Home Decor,Nike,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0420,C8723,P0102,Electronics,Sony,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,Yes,damaged product
+R0421,C5380,P0259,Electronics,Lakme,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,12,Yes,product stopped working
+R0422,C5107,P0838,Accessories,Nike,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0423,C6726,P0880,Home Decor,Boat,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,4,No,
+R0424,C4373,P0219,Clothing,Puma,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,18,Yes,unresponsive support
+R0425,C9945,P0992,Home Decor,Zara,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,Yes,missing items
+R0426,C3082,P0188,Home Decor,Samsung,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0427,C9967,P0428,Clothing,H&M,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,Yes,damaged product
+R0428,C7748,P0679,Beauty,Sony,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,8,Yes,wrong item delivered
+R0429,C1417,P0456,Home Decor,H&M,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,No,
+R0430,C9306,P0709,Home Decor,Boat,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,Yes,product stopped working
+R0431,C9808,P0366,Beauty,Sony,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0432,C4974,P0716,Home Decor,Sony,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0433,C4267,P0422,Home Decor,Zara,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0434,C1825,P0734,Home Decor,Sony,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,No,
+R0435,C8668,P0640,Electronics,Lakme,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,13,No,
+R0436,C6745,P0748,Footwear,Nike,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0437,C1412,P0294,Beauty,Nike,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0438,C8543,P0837,Home Decor,Nike,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R0439,C8587,P0431,Electronics,Lakme,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,No,
+R0440,C1728,P0269,Beauty,H&M,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,9,No,
+R0441,C8164,P0620,Accessories,Zara,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,16,No,
+R0442,C9867,P0562,Accessories,Sony,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,2,Yes,poor quality
+R0443,C6988,P0139,Home Decor,Lakme,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0444,C3504,P0636,Electronics,Nike,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,Yes,product stopped working
+R0445,C3967,P0360,Electronics,Boat,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0446,C3786,P0494,Beauty,Samsung,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,11,No,
+R0447,C2122,P0325,Beauty,Sony,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0448,C5079,P0223,Electronics,Lakme,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0449,C2571,P0137,Beauty,Puma,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,7,No,
+R0450,C6073,P0427,Electronics,Lakme,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0451,C6104,P0350,Footwear,Zara,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,Yes,size mismatch
+R0452,C3143,P0275,Electronics,Zara,2,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,9,No,
+R0453,C7806,P0701,Accessories,Lakme,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,7,No,
+R0454,C8357,P0553,Beauty,Nike,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0455,C4440,P0136,Electronics,Samsung,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,2,No,
+R0456,C4766,P0415,Electronics,Sony,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,Yes,not as described
+R0457,C6644,P0787,Beauty,Zara,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,1,No,
+R0458,C3914,P0895,Footwear,Sony,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0459,C5968,P0692,Footwear,Nike,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0460,C6917,P0213,Beauty,Sony,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,15,No,
+R0461,C9787,P0139,Clothing,Boat,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,1,No,
+R0462,C1728,P0400,Beauty,Zara,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0463,C2365,P0323,Beauty,Nike,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,No,
+R0464,C5492,P0417,Footwear,Nike,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0465,C1698,P0448,Footwear,Samsung,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,15,Yes,poor quality
+R0466,C8186,P0214,Beauty,Samsung,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0467,C1395,P0797,Beauty,Boat,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R0468,C8400,P0422,Beauty,Nike,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,3,Yes,not as described
+R0469,C9082,P0667,Footwear,H&M,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,Yes,wrong item delivered
+R0470,C5171,P0139,Beauty,Nike,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0471,C5360,P0965,Beauty,Samsung,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0472,C3502,P0139,Home Decor,H&M,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,Yes,late delivery
+R0473,C1717,P0958,Clothing,Zara,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0474,C3782,P0848,Accessories,Zara,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,17,No,
+R0475,C5946,P0388,Clothing,Sony,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,13,Yes,unresponsive support
+R0476,C6486,P0361,Home Decor,Lakme,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,17,Yes,bad packaging
+R0477,C9335,P0315,Accessories,Samsung,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,6,No,
+R0478,C5980,P0246,Beauty,Lakme,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0479,C8266,P0435,Home Decor,H&M,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,No,
+R0480,C5491,P0267,Beauty,Samsung,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,Yes,poor quality
+R0481,C8192,P0191,Footwear,Boat,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0482,C6588,P0452,Electronics,Nike,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0483,C8651,P0670,Home Decor,Boat,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,3,No,
+R0484,C4636,P0670,Footwear,H&M,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0485,C2167,P0915,Home Decor,Samsung,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,14,No,
+R0486,C2062,P0780,Home Decor,Puma,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0487,C3156,P0880,Footwear,H&M,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0488,C8860,P0462,Accessories,Puma,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,Yes,size mismatch
+R0489,C6161,P0656,Clothing,Nike,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,13,No,
+R0490,C6305,P0444,Beauty,Zara,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,17,Yes,product stopped working
+R0491,C7541,P0792,Home Decor,Zara,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0492,C5729,P0269,Beauty,H&M,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0493,C8330,P0455,Electronics,Lakme,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,5,No,
+R0494,C6334,P0290,Footwear,Samsung,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0495,C9924,P0766,Beauty,Samsung,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,2,No,
+R0496,C5330,P0521,Footwear,Zara,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,15,No,
+R0497,C9010,P0799,Beauty,Sony,4,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0498,C7801,P0106,Clothing,Boat,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,6,No,
+R0499,C5846,P0232,Clothing,Sony,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,6,No,
+R0500,C7731,P0846,Clothing,Nike,2,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,No,
+R0501,C8241,P0656,Clothing,Boat,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,No,
+R0502,C1953,P0925,Clothing,Boat,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0503,C3539,P0860,Clothing,H&M,4,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0504,C8056,P0130,Footwear,Zara,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,14,Yes,wrong item delivered
+R0505,C2542,P0634,Home Decor,Sony,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,Yes,missing items
+R0506,C6293,P0525,Beauty,Sony,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,13,No,
+R0507,C2191,P0493,Clothing,Zara,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,Yes,damaged product
+R0508,C7313,P0771,Footwear,Sony,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,12,No,
+R0509,C7938,P0462,Footwear,Puma,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,15,No,
+R0510,C3681,P0536,Footwear,Zara,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,Yes,size mismatch
+R0511,C2540,P0769,Home Decor,H&M,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,11,No,
+R0512,C7172,P0650,Beauty,Lakme,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,15,Yes,damaged product
+R0513,C6541,P0181,Home Decor,Boat,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0514,C2365,P0455,Accessories,H&M,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,3,Yes,poor quality
+R0515,C9691,P0357,Footwear,Samsung,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,17,Yes,wrong item delivered
+R0516,C9702,P0817,Accessories,Nike,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0517,C8494,P0688,Electronics,Lakme,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0518,C5312,P0623,Clothing,Samsung,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0519,C2324,P0394,Clothing,Boat,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,3,No,
+R0520,C4141,P0323,Home Decor,Sony,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,16,No,
+R0521,C8419,P0624,Beauty,Zara,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,12,No,
+R0522,C4486,P0145,Accessories,Boat,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,8,No,
+R0523,C2810,P0766,Beauty,H&M,4,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0524,C7588,P0212,Home Decor,Nike,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,No,
+R0525,C3923,P0332,Clothing,H&M,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,No,
+R0526,C6301,P0116,Beauty,Lakme,5,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,18,No,
+R0527,C5186,P0459,Beauty,Lakme,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0528,C9905,P0322,Clothing,Nike,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,3,No,
+R0529,C6977,P0965,Accessories,Puma,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0530,C5268,P0799,Clothing,Samsung,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,13,No,
+R0531,C5748,P0547,Beauty,Samsung,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R0532,C5849,P0955,Accessories,Lakme,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0533,C4709,P0464,Accessories,Lakme,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,Yes,wrong item delivered
+R0534,C7619,P0774,Clothing,Sony,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,16,No,
+R0535,C9647,P0425,Beauty,Zara,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,15,Yes,wrong item delivered
+R0536,C4072,P0566,Home Decor,Sony,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,15,No,
+R0537,C7530,P0513,Beauty,Sony,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,4,Yes,bad packaging
+R0538,C1504,P0554,Footwear,Puma,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,8,Yes,product stopped working
+R0539,C2214,P0685,Electronics,Samsung,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,No,
+R0540,C2531,P0332,Home Decor,Puma,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0541,C8576,P0323,Accessories,Puma,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,4,Yes,unresponsive support
+R0542,C1823,P0930,Home Decor,Nike,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,13,No,
+R0543,C1928,P0511,Accessories,Samsung,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0544,C6029,P0671,Accessories,Zara,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,2,Yes,poor quality
+R0545,C1133,P0434,Home Decor,H&M,5,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,3,Yes,bad packaging
+R0546,C3105,P0321,Accessories,Lakme,2,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0547,C4627,P0136,Accessories,Lakme,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0548,C7316,P0377,Footwear,Zara,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,Yes,late delivery
+R0549,C2852,P0295,Beauty,Puma,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,9,No,
+R0550,C5910,P0963,Beauty,Sony,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,No,
+R0551,C5175,P0583,Electronics,Nike,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0552,C6348,P0341,Electronics,Puma,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0553,C7190,P0423,Footwear,Lakme,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0554,C2256,P0830,Electronics,Boat,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,No,
+R0555,C4376,P0291,Home Decor,Sony,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0556,C6645,P0116,Clothing,Lakme,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0557,C4486,P0623,Clothing,Boat,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,7,No,
+R0558,C4584,P0500,Clothing,Puma,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,No,
+R0559,C9053,P0985,Footwear,Zara,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,16,Yes,wrong item delivered
+R0560,C4330,P0804,Footwear,Zara,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0561,C3703,P0121,Accessories,Sony,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,No,
+R0562,C9662,P0573,Clothing,Lakme,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0563,C9120,P0219,Home Decor,Samsung,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,No,
+R0564,C8114,P0309,Electronics,Boat,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,No,
+R0565,C2353,P0405,Home Decor,Nike,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,5,Yes,not as described
+R0566,C6063,P0369,Electronics,Lakme,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,No,
+R0567,C9549,P0803,Clothing,Nike,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,2,No,
+R0568,C8575,P0786,Clothing,Lakme,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,11,Yes,not as described
+R0569,C1667,P0384,Clothing,Samsung,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,13,Yes,unresponsive support
+R0570,C5468,P0815,Footwear,Samsung,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,No,
+R0571,C7819,P0775,Electronics,Sony,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,Yes,wrong item delivered
+R0572,C4719,P0862,Footwear,Sony,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0573,C3745,P0326,Footwear,Samsung,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,12,No,
+R0574,C8483,P0480,Beauty,H&M,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,4,No,
+R0575,C1539,P0559,Home Decor,Samsung,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0576,C5964,P0106,Home Decor,Zara,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,No,
+R0577,C5835,P0128,Accessories,Zara,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,Yes,unresponsive support
+R0578,C4775,P0132,Footwear,H&M,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,15,No,
+R0579,C7042,P0745,Electronics,Puma,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,8,No,
+R0580,C8102,P0978,Beauty,Boat,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,9,No,
+R0581,C8312,P0178,Beauty,Puma,4,great quality. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0582,C6320,P0558,Home Decor,Nike,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,10,No,
+R0583,C7132,P0669,Footwear,Puma,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R0584,C8891,P0637,Accessories,Lakme,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0585,C3779,P0581,Footwear,Puma,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,3,No,
+R0586,C1924,P0529,Clothing,Lakme,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,10,No,
+R0587,C2581,P0837,Footwear,H&M,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0588,C8714,P0384,Clothing,Zara,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,11,No,
+R0589,C4324,P0615,Clothing,Sony,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0590,C6713,P0198,Accessories,Lakme,5,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0591,C8026,P0496,Electronics,Zara,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,4,No,
+R0592,C1255,P0588,Home Decor,Boat,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,17,No,
+R0593,C5804,P0138,Footwear,Nike,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,9,No,
+R0594,C2838,P0370,Clothing,Boat,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0595,C1009,P0986,Footwear,H&M,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,No,
+R0596,C3871,P0896,Electronics,Puma,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R0597,C9989,P0256,Home Decor,Puma,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0598,C8409,P0174,Electronics,Samsung,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,1,No,
+R0599,C8418,P0983,Home Decor,Samsung,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0600,C6124,P0899,Beauty,Samsung,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,11,No,
+R0601,C2015,P0229,Home Decor,Boat,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0602,C3193,P0786,Accessories,Lakme,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,Yes,bad packaging
+R0603,C9415,P0183,Electronics,Nike,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,3,No,
+R0604,C8449,P0121,Clothing,Samsung,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,9,No,
+R0605,C5158,P0558,Beauty,H&M,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0606,C4925,P0638,Accessories,H&M,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,14,No,
+R0607,C7970,P0806,Footwear,Samsung,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0608,C7938,P0948,Electronics,Puma,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,No,
+R0609,C5784,P0481,Clothing,Samsung,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0610,C5000,P0847,Home Decor,Nike,5,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,9,No,
+R0611,C2633,P0539,Clothing,Samsung,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,9,No,
+R0612,C8266,P0703,Footwear,Nike,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,10,Yes,late delivery
+R0613,C9702,P0120,Beauty,H&M,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0614,C1384,P0402,Beauty,Samsung,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,15,No,
+R0615,C1404,P0968,Electronics,Boat,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0616,C9175,P0183,Beauty,Sony,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0617,C3000,P0873,Electronics,Boat,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0618,C6989,P0758,Electronics,H&M,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,13,Yes,damaged product
+R0619,C2460,P0552,Electronics,Nike,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0620,C8190,P0486,Home Decor,Boat,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,Yes,size mismatch
+R0621,C8140,P0606,Accessories,Nike,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,No,
+R0622,C4636,P0356,Electronics,Boat,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0623,C5809,P0669,Electronics,Boat,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0624,C5178,P0991,Accessories,Nike,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0625,C8245,P0626,Clothing,Lakme,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,9,Yes,size mismatch
+R0626,C7600,P0261,Electronics,Boat,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,14,Yes,not as described
+R0627,C6997,P0262,Home Decor,Samsung,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,3,No,
+R0628,C3048,P0931,Beauty,Sony,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,Yes,poor quality
+R0629,C5780,P0892,Beauty,H&M,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0630,C1716,P0891,Footwear,Lakme,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,10,Yes,bad packaging
+R0631,C8939,P0623,Footwear,Nike,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0632,C6565,P0885,Beauty,Lakme,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0633,C5544,P0370,Beauty,Zara,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,Yes,unresponsive support
+R0634,C5976,P0591,Home Decor,Zara,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0635,C4419,P0307,Accessories,Boat,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,No,
+R0636,C8239,P0638,Footwear,Boat,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,Yes,missing items
+R0637,C1249,P0683,Accessories,Samsung,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,2,No,
+R0638,C9865,P0159,Home Decor,Sony,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0639,C1770,P0529,Beauty,H&M,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,10,No,
+R0640,C5363,P0756,Electronics,Lakme,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,18,Yes,poor quality
+R0641,C2077,P0704,Accessories,Zara,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,11,No,
+R0642,C9427,P0408,Beauty,Boat,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0643,C9580,P0619,Beauty,Puma,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,Yes,wrong item delivered
+R0644,C8901,P0690,Clothing,Puma,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0645,C5858,P0126,Accessories,H&M,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,18,No,
+R0646,C7544,P0785,Electronics,Lakme,5,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,3,No,
+R0647,C5719,P0661,Accessories,Boat,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,16,No,
+R0648,C3814,P0298,Beauty,Boat,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,Yes,product stopped working
+R0649,C4374,P0486,Electronics,Zara,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,12,No,
+R0650,C2252,P0448,Home Decor,Zara,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,Yes,poor quality
+R0651,C7996,P0792,Clothing,Boat,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,15,Yes,bad packaging
+R0652,C5673,P0635,Beauty,Nike,4,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,15,No,
+R0653,C5530,P0927,Footwear,Boat,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,No,
+R0654,C7881,P0477,Footwear,H&M,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,10,No,
+R0655,C7949,P0998,Clothing,Boat,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,Yes,missing items
+R0656,C7241,P0657,Home Decor,Samsung,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0657,C9017,P0626,Beauty,Sony,2,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,4,No,
+R0658,C7941,P0252,Accessories,Samsung,2,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,Yes,late delivery
+R0659,C8002,P0833,Clothing,Samsung,4,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,2,No,
+R0660,C2331,P0305,Home Decor,Nike,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,15,Yes,product stopped working
+R0661,C5261,P0554,Accessories,Nike,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0662,C8648,P0372,Footwear,Puma,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,7,No,
+R0663,C6115,P0993,Footwear,Boat,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,15,No,
+R0664,C5637,P0335,Accessories,Samsung,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0665,C5854,P0951,Clothing,Nike,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0666,C4177,P0839,Footwear,Zara,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,12,Yes,damaged product
+R0667,C8730,P0620,Beauty,Boat,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,13,No,
+R0668,C3180,P0777,Electronics,H&M,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,No,
+R0669,C5892,P0930,Accessories,Sony,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,17,No,
+R0670,C8043,P0825,Accessories,Lakme,5,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0671,C1137,P0600,Footwear,Boat,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,4,No,
+R0672,C7327,P0216,Clothing,Lakme,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,8,No,
+R0673,C4472,P0485,Beauty,Samsung,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,No,
+R0674,C6449,P0443,Clothing,Sony,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,No,
+R0675,C3832,P0683,Home Decor,Lakme,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,4,No,
+R0676,C4579,P0494,Home Decor,Samsung,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0677,C6971,P0163,Electronics,Zara,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0678,C5164,P0816,Footwear,Lakme,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,No,
+R0679,C8941,P0820,Footwear,Sony,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,16,No,
+R0680,C6569,P0171,Footwear,Puma,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,14,Yes,product stopped working
+R0681,C5300,P0888,Electronics,Boat,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,10,No,
+R0682,C7269,P0373,Home Decor,Samsung,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,7,No,
+R0683,C4818,P0419,Clothing,Boat,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,13,Yes,damaged product
+R0684,C2906,P0437,Electronics,Sony,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,Yes,late delivery
+R0685,C7254,P0465,Electronics,Nike,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0686,C1760,P0594,Clothing,Samsung,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,15,No,
+R0687,C8830,P0706,Footwear,Lakme,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,4,No,
+R0688,C8350,P0265,Beauty,Samsung,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0689,C7238,P0643,Clothing,Boat,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0690,C7090,P0110,Home Decor,Zara,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0691,C7031,P0400,Accessories,Samsung,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,13,Yes,wrong item delivered
+R0692,C8687,P0828,Accessories,Lakme,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,10,Yes,size mismatch
+R0693,C9472,P0900,Electronics,Nike,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,No,
+R0694,C2887,P0201,Accessories,Puma,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R0695,C4266,P0524,Beauty,H&M,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,4,Yes,not as described
+R0696,C1666,P0491,Footwear,Zara,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,2,No,
+R0697,C5188,P0878,Home Decor,Puma,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,Yes,wrong item delivered
+R0698,C1671,P0313,Beauty,Nike,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,18,No,
+R0699,C7777,P0790,Home Decor,Samsung,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,No,
+R0700,C8570,P0187,Home Decor,Boat,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,4,No,
+R0701,C8956,P0652,Footwear,Sony,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,13,No,
+R0702,C6124,P0500,Electronics,Boat,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0703,C6585,P0687,Accessories,Puma,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0704,C5777,P0988,Footwear,Lakme,5,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0705,C4900,P0145,Beauty,Boat,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,No,
+R0706,C7677,P0771,Electronics,Zara,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,4,No,
+R0707,C7981,P0562,Beauty,Boat,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,15,No,
+R0708,C7376,P0691,Electronics,Lakme,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0709,C1523,P0409,Beauty,H&M,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,9,No,
+R0710,C3393,P0185,Footwear,Samsung,4,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,7,Yes,wrong item delivered
+R0711,C3593,P0191,Electronics,Sony,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,Yes,unresponsive support
+R0712,C8240,P0759,Electronics,Puma,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0713,C7937,P0772,Home Decor,Samsung,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,6,No,
+R0714,C7190,P0813,Home Decor,Boat,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0715,C6240,P0341,Clothing,Nike,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,15,Yes,damaged product
+R0716,C7493,P0964,Beauty,Samsung,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0717,C3878,P0101,Home Decor,H&M,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,9,No,
+R0718,C5143,P0324,Clothing,Boat,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,4,No,
+R0719,C4644,P0900,Home Decor,Sony,2,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,No,
+R0720,C5432,P0844,Beauty,Lakme,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,No,
+R0721,C2276,P0688,Electronics,H&M,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0722,C6811,P0215,Accessories,Boat,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0723,C1302,P0765,Beauty,H&M,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0724,C1638,P0202,Footwear,Samsung,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,4,No,
+R0725,C1055,P0293,Home Decor,Sony,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,12,No,
+R0726,C9717,P0265,Home Decor,Lakme,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,2,No,
+R0727,C9150,P0970,Electronics,Boat,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,Yes,product stopped working
+R0728,C3125,P0189,Footwear,Zara,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,10,Yes,wrong item delivered
+R0729,C1364,P0785,Electronics,Puma,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,9,No,
+R0730,C7809,P0221,Footwear,Lakme,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,No,
+R0731,C5621,P0242,Accessories,Zara,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,No,
+R0732,C6126,P0205,Home Decor,H&M,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,4,Yes,missing items
+R0733,C6122,P0986,Home Decor,Nike,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0734,C2646,P0527,Accessories,Lakme,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0735,C1918,P0404,Clothing,H&M,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,Yes,wrong item delivered
+R0736,C3797,P0971,Electronics,Zara,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0737,C7506,P0416,Accessories,Samsung,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,2,Yes,poor quality
+R0738,C6870,P0734,Electronics,Samsung,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0739,C2531,P0108,Beauty,Nike,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0740,C9172,P0873,Home Decor,Puma,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,2,No,
+R0741,C4345,P0172,Electronics,Lakme,5,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0742,C8673,P0458,Footwear,Lakme,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0743,C7949,P0322,Electronics,Lakme,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,16,No,
+R0744,C7882,P0515,Beauty,Puma,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,14,Yes,not as described
+R0745,C2906,P0652,Home Decor,H&M,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,7,Yes,late delivery
+R0746,C4086,P0469,Accessories,Sony,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0747,C9152,P0815,Beauty,Sony,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0748,C6750,P0363,Home Decor,Nike,4,great quality. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0749,C9905,P0939,Electronics,Lakme,4,great quality. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0750,C2062,P0789,Clothing,H&M,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,7,No,
+R0751,C2976,P0959,Clothing,Samsung,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,15,No,
+R0752,C2296,P0417,Footwear,Zara,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,No,
+R0753,C7229,P0183,Home Decor,H&M,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0754,C8641,P0417,Clothing,Puma,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0755,C1125,P0210,Accessories,Sony,5,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,1,No,
+R0756,C5632,P0350,Home Decor,Sony,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,Yes,wrong item delivered
+R0757,C7288,P0482,Accessories,Samsung,4,great quality. Loved it!,Satisfied,54:19.1,54:19.1,1,Yes,bad packaging
+R0758,C4596,P0106,Accessories,Samsung,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0759,C7168,P0558,Clothing,Puma,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0760,C8561,P0183,Home Decor,Zara,5,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,7,Yes,missing items
+R0761,C9258,P0307,Electronics,Samsung,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,2,No,
+R0762,C1232,P0489,Beauty,Nike,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,No,
+R0763,C7371,P0413,Clothing,Zara,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,4,No,
+R0764,C5206,P0121,Clothing,Samsung,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,Yes,wrong item delivered
+R0765,C8943,P0509,Electronics,Boat,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,Yes,damaged product
+R0766,C7891,P0994,Home Decor,H&M,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,No,
+R0767,C7738,P0614,Home Decor,Samsung,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0768,C3472,P0226,Accessories,Nike,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,18,No,
+R0769,C3739,P0908,Electronics,Lakme,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0770,C6401,P0799,Electronics,Samsung,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,Yes,poor quality
+R0771,C2761,P0973,Home Decor,Sony,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,13,Yes,missing items
+R0772,C1876,P0113,Accessories,Sony,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,3,No,
+R0773,C4812,P0111,Clothing,Sony,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,12,Yes,product stopped working
+R0774,C2460,P0186,Footwear,Lakme,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0775,C2733,P0623,Beauty,Sony,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0776,C2605,P0636,Clothing,Boat,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,Yes,missing items
+R0777,C6622,P0400,Home Decor,Samsung,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,Yes,unresponsive support
+R0778,C7767,P0342,Beauty,Puma,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0779,C7986,P0221,Footwear,Sony,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,16,No,
+R0780,C4517,P0246,Footwear,Zara,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,Yes,poor quality
+R0781,C4735,P0666,Accessories,Puma,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R0782,C9434,P0849,Beauty,Lakme,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0783,C3590,P0455,Accessories,Boat,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0784,C2063,P0784,Clothing,Zara,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0785,C5324,P0832,Electronics,Zara,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,1,No,
+R0786,C6342,P0730,Electronics,Zara,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0787,C1005,P0408,Electronics,Zara,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,9,No,
+R0788,C8489,P0794,Beauty,Puma,5,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0789,C9659,P0387,Electronics,Puma,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0790,C9195,P0406,Clothing,Samsung,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,5,Yes,size mismatch
+R0791,C6966,P0911,Accessories,Sony,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,16,Yes,wrong item delivered
+R0792,C9837,P0693,Beauty,H&M,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0793,C1117,P0822,Accessories,Samsung,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,No,
+R0794,C3551,P0761,Beauty,Samsung,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,No,
+R0795,C6560,P0648,Accessories,Boat,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,9,No,
+R0796,C5289,P0451,Footwear,Boat,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,No,
+R0797,C1846,P0411,Accessories,Sony,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,2,No,
+R0798,C7316,P0972,Electronics,H&M,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0799,C7469,P0158,Footwear,Boat,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0800,C9915,P0742,Accessories,Sony,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,8,Yes,not as described
+R0801,C1224,P0813,Beauty,Sony,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,9,Yes,not as described
+R0802,C5208,P0854,Beauty,Puma,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,12,No,
+R0803,C7283,P0134,Beauty,Nike,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,9,Yes,wrong item delivered
+R0804,C3048,P0544,Home Decor,Puma,1,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,No,
+R0805,C7233,P0192,Clothing,H&M,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0806,C2828,P0306,Beauty,Boat,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0807,C2917,P0452,Footwear,H&M,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,7,Yes,late delivery
+R0808,C5234,P0431,Beauty,Samsung,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,2,No,
+R0809,C7988,P0916,Home Decor,Samsung,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,1,No,
+R0810,C3026,P0961,Electronics,H&M,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,19,No,
+R0811,C4744,P0824,Footwear,Nike,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0812,C1009,P0258,Home Decor,Nike,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0813,C1260,P0123,Electronics,Puma,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0814,C7038,P0503,Footwear,H&M,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0815,C3219,P0904,Accessories,Boat,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,15,Yes,size mismatch
+R0816,C8041,P0615,Clothing,Puma,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,12,No,
+R0817,C3060,P0831,Clothing,Lakme,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,No,
+R0818,C6287,P0463,Home Decor,Nike,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,No,
+R0819,C2619,P0481,Electronics,Zara,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,No,
+R0820,C9512,P0631,Clothing,Puma,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0821,C2342,P0251,Electronics,Samsung,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0822,C3832,P0661,Electronics,Puma,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,No,
+R0823,C3824,P0788,Home Decor,H&M,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,18,No,
+R0824,C2994,P0707,Home Decor,Zara,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0825,C4490,P0716,Home Decor,H&M,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0826,C8984,P0519,Clothing,Sony,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0827,C2604,P0349,Home Decor,Samsung,5,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0828,C1235,P0216,Clothing,Samsung,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0829,C2908,P0965,Home Decor,Nike,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,Yes,poor quality
+R0830,C9567,P0611,Beauty,Puma,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0831,C4530,P0839,Electronics,Nike,5,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0832,C6256,P0677,Home Decor,Zara,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0833,C3635,P0434,Footwear,Puma,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,4,No,
+R0834,C9162,P0517,Electronics,Sony,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0835,C3560,P0873,Electronics,H&M,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0836,C6415,P0394,Home Decor,Sony,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0837,C4391,P0854,Accessories,Samsung,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,18,No,
+R0838,C6951,P0470,Home Decor,Zara,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,Yes,poor quality
+R0839,C6468,P0285,Electronics,Lakme,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,3,No,
+R0840,C9007,P0345,Footwear,Zara,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0841,C7413,P0736,Electronics,Boat,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,No,
+R0842,C7941,P0367,Footwear,Zara,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0843,C5820,P0742,Clothing,Sony,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,4,No,
+R0844,C3898,P0336,Beauty,Boat,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0845,C8546,P0629,Electronics,Boat,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0846,C1077,P0651,Home Decor,Puma,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,14,No,
+R0847,C8577,P0120,Clothing,Puma,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,No,
+R0848,C5227,P0836,Beauty,Boat,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,14,No,
+R0849,C1600,P0966,Home Decor,Lakme,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,6,Yes,product stopped working
+R0850,C2065,P0893,Accessories,Puma,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,12,No,
+R0851,C3136,P0619,Home Decor,Zara,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,16,Yes,late delivery
+R0852,C7943,P0199,Footwear,Sony,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,17,Yes,size mismatch
+R0853,C8804,P0851,Footwear,Zara,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,13,No,
+R0854,C7565,P0577,Accessories,Lakme,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,Yes,damaged product
+R0855,C6984,P0698,Clothing,Samsung,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,7,Yes,size mismatch
+R0856,C6142,P0397,Beauty,Nike,1,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0857,C5670,P0625,Home Decor,Sony,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,15,Yes,bad packaging
+R0858,C3190,P0433,Footwear,Puma,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,Yes,poor quality
+R0859,C3712,P0101,Clothing,Sony,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,17,No,
+R0860,C3192,P0474,Accessories,Zara,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,9,Yes,not as described
+R0861,C2248,P0392,Electronics,Nike,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0862,C5033,P0936,Footwear,H&M,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,Yes,damaged product
+R0863,C2997,P0652,Accessories,H&M,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,2,No,
+R0864,C4687,P0417,Home Decor,Puma,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0865,C5018,P0601,Beauty,Lakme,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,13,No,
+R0866,C2970,P0927,Footwear,H&M,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,No,
+R0867,C9389,P0480,Footwear,Sony,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0868,C6765,P0722,Home Decor,H&M,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,15,No,
+R0869,C2202,P0113,Electronics,Samsung,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,11,Yes,wrong item delivered
+R0870,C9135,P0603,Clothing,Samsung,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0871,C6567,P0330,Beauty,Puma,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0872,C8667,P0183,Footwear,Samsung,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0873,C6742,P0229,Beauty,H&M,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,19,Yes,late delivery
+R0874,C6788,P0842,Footwear,Lakme,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,14,No,
+R0875,C6408,P0937,Beauty,Boat,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0876,C9669,P0244,Accessories,Boat,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,Yes,size mismatch
+R0877,C1922,P0990,Footwear,Puma,2,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0878,C1419,P0956,Beauty,Nike,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,5,Yes,missing items
+R0879,C3204,P0127,Clothing,Boat,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,9,No,
+R0880,C2120,P0165,Accessories,Boat,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0881,C1950,P0262,Accessories,Samsung,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,2,No,
+R0882,C3336,P0328,Clothing,Samsung,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,13,No,
+R0883,C6373,P0360,Beauty,H&M,4,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,5,No,
+R0884,C3243,P0548,Home Decor,Puma,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0885,C3645,P0523,Clothing,Nike,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0886,C5612,P0559,Beauty,Puma,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0887,C2865,P0775,Clothing,Zara,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0888,C7028,P0400,Clothing,Sony,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,Yes,product stopped working
+R0889,C8326,P0402,Footwear,Nike,2,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0890,C7371,P0386,Beauty,Nike,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,11,Yes,unresponsive support
+R0891,C7359,P0494,Home Decor,Lakme,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0892,C8863,P0109,Footwear,Puma,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,3,No,
+R0893,C4228,P0806,Clothing,H&M,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0894,C4719,P0729,Electronics,Lakme,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,3,No,
+R0895,C3371,P0369,Clothing,Nike,2,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,1,No,
+R0896,C3891,P0691,Clothing,Nike,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,15,No,
+R0897,C4756,P0704,Beauty,Nike,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,1,No,
+R0898,C5225,P0877,Beauty,Boat,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,17,Yes,poor quality
+R0899,C1094,P0943,Footwear,Puma,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,2,No,
+R0900,C3674,P0961,Home Decor,Sony,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,6,No,
+R0901,C7898,P0460,Footwear,Sony,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0902,C1793,P0356,Accessories,Lakme,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,16,No,
+R0903,C3116,P0232,Clothing,Nike,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0904,C6779,P0375,Electronics,Sony,4,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,1,No,
+R0905,C7166,P0875,Clothing,Samsung,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,3,Yes,damaged product
+R0906,C1814,P0782,Clothing,Puma,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0907,C1345,P0612,Footwear,Sony,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,5,No,
+R0908,C9554,P0412,Electronics,H&M,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,12,Yes,size mismatch
+R0909,C3443,P0675,Electronics,Puma,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,12,No,
+R0910,C8783,P0985,Electronics,H&M,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0911,C1984,P0383,Footwear,Sony,1,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,9,No,
+R0912,C8790,P0220,Clothing,Samsung,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,No,
+R0913,C1827,P0206,Footwear,H&M,4,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,4,Yes,unresponsive support
+R0914,C4531,P0786,Beauty,Boat,4,great quality. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0915,C8147,P0303,Beauty,Sony,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,Yes,product stopped working
+R0916,C5451,P0264,Footwear,Boat,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0917,C4876,P0404,Electronics,Sony,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0918,C6959,P0596,Clothing,Zara,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0919,C1126,P0731,Footwear,Zara,1,not as described. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,Yes,not as described
+R0920,C4177,P0655,Footwear,Zara,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0921,C9795,P0923,Footwear,H&M,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0922,C7024,P0255,Accessories,Boat,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,13,Yes,late delivery
+R0923,C6109,P0466,Beauty,Boat,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0924,C5146,P0818,Electronics,Boat,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0925,C8196,P0719,Home Decor,Samsung,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0926,C4368,P0350,Electronics,Boat,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,8,Yes,unresponsive support
+R0927,C4797,P0981,Home Decor,Samsung,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,10,Yes,wrong item delivered
+R0928,C2792,P0433,Accessories,Zara,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,16,No,
+R0929,C6732,P0741,Footwear,Zara,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,19,No,
+R0930,C4476,P0610,Accessories,H&M,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,11,Yes,missing items
+R0931,C4417,P0392,Accessories,Sony,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,13,Yes,size mismatch
+R0932,C2645,P0119,Clothing,Zara,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,9,No,
+R0933,C4030,P0381,Beauty,Sony,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0934,C3872,P0896,Home Decor,Sony,1,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,Yes,wrong item delivered
+R0935,C4072,P0100,Footwear,Puma,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,7,No,
+R0936,C2854,P0218,Home Decor,H&M,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0937,C5021,P0134,Electronics,Nike,2,wrong item delivered. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,Yes,product stopped working
+R0938,C5662,P0297,Home Decor,Nike,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0939,C7514,P0584,Electronics,Lakme,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,14,No,
+R0940,C6031,P0856,Beauty,Puma,5,great quality. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0941,C3708,P0158,Electronics,H&M,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,No,
+R0942,C8112,P0936,Home Decor,Lakme,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0943,C9393,P0260,Home Decor,Lakme,2,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R0944,C4507,P0790,Electronics,Puma,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,2,No,
+R0945,C7456,P0305,Accessories,Nike,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0946,C5212,P0111,Beauty,H&M,2,bad packaging. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0947,C8970,P0589,Clothing,Nike,4,value for money. Loved it!,Satisfied,54:19.1,54:19.1,6,Yes,not as described
+R0948,C9766,P0375,Footwear,Lakme,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,Yes,poor quality
+R0949,C1536,P0792,Home Decor,H&M,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,6,No,
+R0950,C2625,P0341,Footwear,Lakme,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0951,C8973,P0315,Clothing,Boat,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,10,Yes,unresponsive support
+R0952,C9577,P0350,Footwear,Puma,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,1,No,
+R0953,C9070,P0910,Clothing,Sony,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,3,No,
+R0954,C9666,P0225,Electronics,H&M,5,amazing product. Loved it!,Satisfied,54:19.1,54:19.1,8,No,
+R0955,C9609,P0316,Accessories,H&M,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,8,Yes,wrong item delivered
+R0956,C7490,P0405,Home Decor,Sony,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,15,No,
+R0957,C4600,P0896,Clothing,Lakme,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,7,No,
+R0958,C7783,P0284,Footwear,Boat,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,11,No,
+R0959,C5971,P0138,Home Decor,Samsung,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,7,No,
+R0960,C2205,P0322,Accessories,Sony,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,4,Yes,product stopped working
+R0961,C2990,P0283,Electronics,Puma,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0962,C6299,P0594,Home Decor,Nike,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R0963,C4572,P0526,Clothing,Lakme,2,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,Yes,product stopped working
+R0964,C6975,P0277,Accessories,Sony,2,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,12,No,
+R0965,C7320,P0527,Footwear,Sony,4,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0966,C5380,P0393,Accessories,H&M,3,Average product. Not too bad.,Neutral,54:19.1,54:19.1,19,No,
+R0967,C5757,P0951,Accessories,Nike,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,5,No,
+R0968,C3713,P0250,Beauty,Nike,2,late delivery. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,Yes,wrong item delivered
+R0969,C6588,P0483,Accessories,Puma,1,product stopped working. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,No,
+R0970,C1966,P0737,Accessories,Nike,1,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0971,C5944,P0912,Home Decor,Sony,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,4,No,
+R0972,C4432,P0407,Footwear,Samsung,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,11,No,
+R0973,C1688,P0435,Home Decor,Zara,5,as expected. Loved it!,Satisfied,54:19.1,54:19.1,17,No,
+R0974,C5243,P0845,Home Decor,Lakme,1,unresponsive support. Very disappointed.,Unsatisfied,54:19.1,54:19.1,7,No,
+R0975,C4701,P0991,Clothing,Zara,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0976,C9533,P0474,Home Decor,Sony,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,11,No,
+R0977,C6182,P0107,Beauty,Zara,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,9,No,
+R0978,C7704,P0440,Beauty,Sony,2,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,No,
+R0979,C5422,P0228,Clothing,Zara,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,18,No,
+R0980,C2759,P0875,Electronics,Nike,3,Average product. Could be better.,Neutral,54:19.1,54:19.1,11,No,
+R0981,C3482,P0768,Footwear,Boat,4,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,15,No,
+R0982,C9058,P0451,Footwear,Nike,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,19,No,
+R0983,C1951,P0457,Home Decor,Nike,5,satisfied with the purchase. Loved it!,Satisfied,54:19.1,54:19.1,1,No,
+R0984,C9914,P0616,Home Decor,Puma,4,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,4,No,
+R0985,C3079,P0594,Electronics,H&M,4,great quality. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0986,C3717,P0185,Home Decor,H&M,2,poor quality. Very disappointed.,Unsatisfied,54:19.1,54:19.1,14,No,
+R0987,C5524,P0274,Footwear,Zara,5,value for money. Loved it!,Satisfied,54:19.1,54:19.1,3,No,
+R0988,C9477,P0901,Accessories,Sony,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,17,Yes,missing items
+R0989,C8311,P0292,Beauty,Puma,4,as expected. Loved it!,Satisfied,54:19.1,54:19.1,3,Yes,late delivery
+R0990,C8186,P0410,Accessories,Nike,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,16,No,
+R0991,C3065,P0218,Accessories,Puma,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,14,No,
+R0992,C1768,P0317,Footwear,Zara,1,size mismatch. Very disappointed.,Unsatisfied,54:19.1,54:19.1,13,Yes,late delivery
+R0993,C6490,P0526,Accessories,H&M,5,highly recommend. Loved it!,Satisfied,54:19.1,54:19.1,15,Yes,unresponsive support
+R0994,C7645,P0513,Electronics,Boat,5,excellent packaging. Loved it!,Satisfied,54:19.1,54:19.1,14,Yes,not as described
+R0995,C6083,P0213,Clothing,Lakme,5,works perfectly. Loved it!,Satisfied,54:19.1,54:19.1,19,No,
+R0996,C6232,P0244,Home Decor,Zara,3,Average product. Okay experience.,Neutral,54:19.1,54:19.1,6,No,
+R0997,C6797,P0637,Clothing,Puma,5,fast delivery. Loved it!,Satisfied,54:19.1,54:19.1,10,No,
+R0998,C5926,P0747,Beauty,Boat,4,fits perfectly. Loved it!,Satisfied,54:19.1,54:19.1,15,No,
+R0999,C7016,P0402,Home Decor,Lakme,2,damaged product. Very disappointed.,Unsatisfied,54:19.1,54:19.1,6,No,
+R1000,C4335,P0843,Accessories,Samsung,1,missing items. Very disappointed.,Unsatisfied,54:19.1,54:19.1,10,No,
